@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="algs4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.lift/algs4.jar!/" />
+      <root url="file://$PROJECT_DIR$/.lift" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/checkstyle-lift.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/introcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/stdlib.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://algs4.cs.princeton.edu/code/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.lift/algs4.jar!/" />
+      <root url="file://$PROJECT_DIR$/.lift" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/checkstyle-lift.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/introcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/stdlib.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/.lift" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/.lift" recursive="false" type="SOURCES" />
+  </library>
+</component>

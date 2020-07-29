@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="algs41">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/checkstyle-lift.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/introcs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/checkstyle-lift.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Percolation/.lift/introcs.jar!/" />
+    </SOURCES>
+  </library>
+</component>

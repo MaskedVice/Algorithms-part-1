@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="algs4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../RandomizedQueue/.lift/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../RandomizedQueue/.lift/checkstyle-lift.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../RandomizedQueue/.lift/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../RandomizedQueue/.lift/introcs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../RandomizedQueue/.lift/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../RandomizedQueue/.lift/checkstyle-lift.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../RandomizedQueue/.lift/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../RandomizedQueue/.lift/introcs.jar!/" />
+    </SOURCES>
+  </library>
+</component>
